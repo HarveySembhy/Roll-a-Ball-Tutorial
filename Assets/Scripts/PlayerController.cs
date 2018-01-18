@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
+	void Update()
+	{
+		float moveHorizontal = Input.GetAxis ("Horizontal")
+		float moveVertical = Input.GetAxis ("Vertical")
+		//go to video 8:30
+		Rigidbody.
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+
+	void FixedUpate()
+	{
+
 	}
 }
