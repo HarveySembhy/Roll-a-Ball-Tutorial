@@ -1586,6 +1586,11 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 23949746915393416, guid: 5b00d28ff525326468c3661c94e85c65,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5b00d28ff525326468c3661c94e85c65, type: 2}
   m_IsPrefabParent: 0
